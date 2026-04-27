@@ -10,7 +10,7 @@ import joblib
 import os
 from sklearn.preprocessing import StandardScaler
 
-# Initialize Flask application
+# Initialize Flask applicatio
 app = Flask(__name__)
 
 # Load the pre-trained model
